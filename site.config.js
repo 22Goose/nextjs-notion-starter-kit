@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'underPolish',
-  domain: 'transitivebullsh.it',
+  domain: 'mospl.live',
   author: 'MospL',
 
   // open graph metadata (optional)
